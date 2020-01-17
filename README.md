@@ -1,7 +1,7 @@
 # Frequent-Pattern-Mining-Analysis-Academic-Hands-On
 Academic Project - Frequent Pattern Mining Analysis 
 
-Data: Multiple datasets, all provided in the repository.
+Data: Multiple datasets, all added to the repository.
 
 Goal: This was a project designed by the professor to test our understanding and application of Frequent Pattern Mining module learned in the class. This module included topics such as frequent pattern mining algorithms such as Naive, Apriori, Eclat and FP Growth and ideas frequent itemsets, minimum support, Maximal itemsets, Closed Itemset, Subsequence mining and Substring mining.
 
